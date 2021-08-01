@@ -9,7 +9,7 @@ const history = createMemoryHistory();
 it('renders without crashing', () => {
   const div = document.createElement('div');
   ReactDOM.render(
-    <Router history={history}>
+    <Router history={history} basename={process.env.PUBLIC_URL}>
       <App />
     </Router>,
     div
