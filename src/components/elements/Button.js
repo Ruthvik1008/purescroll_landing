@@ -50,6 +50,7 @@ const Button = ({
       {...props}
       className={classes}
       disabled={disabled}
+      style={{ height: "60px", padding: "15px" }}
     />
   );
 }
