@@ -2,7 +2,7 @@
   "name": "open-react-template",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://ruthvik1008.github.io/purescroll_landing",
+  "homepage": "https://purescroll.com",
   "dependencies": {
     "axios": "^0.21.1",
     "classnames": "^2.2.6",
