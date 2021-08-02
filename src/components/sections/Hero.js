@@ -70,7 +70,9 @@ const Hero = ({
               </p>
               <div className="reveal-from-bottom" data-reveal-delay="600">
                 <ButtonGroup>
-                  <Button tag="a" color="primary" wideMobile target="_blank" href="https://google.com/">
+                  <Button tag="a" color="primary" wideMobile target="_blank"
+                    href="https://chrome.google.com/webstore/detail/purescroll-twitter-filter/mopoafnpcjdglcfbbjghffhadbbmdopo"
+                  >
                     Add PureScroll - It's Free
                   </Button>
                 </ButtonGroup>

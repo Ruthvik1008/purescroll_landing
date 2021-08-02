@@ -70,10 +70,10 @@ const FeaturesSplit = ({
                   Intuitive
                 </div>
                 <h3 className="mt-0 mb-12">
-                  Data-driven insights
+                  Introducing PureScroll
                 </h3>
                 <p className="m-0">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua — Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                  It’s time to take back control from addictive social media algorithms that aim to convert our precious time into their profit. Add PureScroll to Chrome and make your social media experience a rewarding one.
                 </p>
               </div>
               <div className={
