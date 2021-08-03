@@ -82,11 +82,12 @@ const FeaturesSplit = ({
                   imageFill && 'split-item-image-fill'
                 )}
                 data-reveal-container=".split-item">
-                <Image
+                {/* <Image
                   src={require('./../../assets/images/slides.png')}
                   alt="Features split 01"
                   width={500}
-                  height={396} style={{ width: "450px" }} />
+                  height={396} /> */}
+                <img src={require('./../../assets/images/slides.png')} alt="Pure Scroll Popup" style={{width: 528}}></img>
 
               </div>
             </div>
