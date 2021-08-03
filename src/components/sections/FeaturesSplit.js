@@ -65,15 +65,15 @@ const FeaturesSplit = ({
           <div className={splitClasses}>
 
             <div className="split-item">
-              <div className="split-item-content center-content-mobile reveal-from-left" data-reveal-container=".split-item">
+              <div className="split-item-content center-content-mobile reveal-from-left" style={{ marginRight: "0px" }} data-reveal-container=".split-item">
                 <div className="text-xxs text-color-primary fw-600 tt-u mb-8">
-                  Intuitive
+                  Innovative
                 </div>
                 <h3 className="mt-0 mb-12">
                   Introducing PureScroll
                 </h3>
                 <p className="m-0">
-                  It’s time to take back control from addictive social media algorithms that aim to convert our precious time into their profit. Add PureScroll to Chrome and make your social media experience a rewarding one.
+                  It’s time to take back control from addictive social media algorithms that aim to convert our precious time into their profit.
                 </p>
               </div>
               <div className={
@@ -94,10 +94,10 @@ const FeaturesSplit = ({
             <div className="split-item">
               <div className="split-item-content center-content-mobile reveal-from-right" data-reveal-container=".split-item">
                 <div className="text-xxs text-color-primary fw-600 tt-u mb-8">
-                  Lightning fast
+                  Thorough
                 </div>
                 <h3 className="mt-0 mb-12">
-                  Filter Out Millions of Unwanted Posts
+                  Comprehensive Filters
                 </h3>
                 <p className="m-0">
                   Use thoroughly made pre-built filters to remove ads and political, sports, and celebrity posts.
@@ -117,16 +117,16 @@ const FeaturesSplit = ({
               </div>
             </div>
 
-            <div className="split-item">
-              <div className="split-item-content center-content-mobile reveal-from-left" data-reveal-container=".split-item">
+            <div className="split-item" >
+              <div className="split-item-content center-content-mobile reveal-from-left" style={{ marginRight: "0px" }} data-reveal-container=".split-item">
                 <div className="text-xxs text-color-primary fw-600 tt-u mb-8">
-                  Custom Filters
+                  Custom
                 </div>
                 <h3 className="mt-0 mb-12">
-                  Create Your Own Personalized Filters
+                  Personalized Filters
                 </h3>
                 <p className="m-0">
-                  Remove posts by keywords that you can type and save yourself, such as “George Washington”
+                  Remove posts by keywords that you can type in yourself, such as “The Grinch”
                 </p>
               </div>
               <div className={
@@ -146,7 +146,7 @@ const FeaturesSplit = ({
           </div>
         </div>
       </div>
-    </section>
+    </section >
   );
 }
 

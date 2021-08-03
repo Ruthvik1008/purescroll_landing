@@ -66,14 +66,14 @@ const Hero = ({
             </h1>
             <div className="container-xs">
               <p className="m-0 mb-32 reveal-from-bottom" data-reveal-delay="400">
-                A Chrome extension that filters out millions of unnecessary tweets, making social media an experience that serves you.
+                PureScroll filters out millions of unnecessary tweets, making social media an experience that serves <b>you.</b>
               </p>
               <div className="reveal-from-bottom" data-reveal-delay="600">
                 <ButtonGroup>
                   <Button tag="a" color="primary" wideMobile target="_blank"
                     href="https://chrome.google.com/webstore/detail/purescroll-twitter-filter/mopoafnpcjdglcfbbjghffhadbbmdopo"
                   >
-                    Add PureScroll - It's Free
+                    Add To Chrome - It's Free
                   </Button>
                 </ButtonGroup>
               </div>
