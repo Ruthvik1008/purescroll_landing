@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "838ca134d606c51cf332230a643abe9b",
+    "revision": "f0bbd6d338ff569a20c7c8d4b012ff5c",
     "url": "/index.html"
   },
   {
-    "revision": "55e078ca803b87bd426b",
+    "revision": "d57f110904dad92d7cb9",
     "url": "/static/css/main.14f62818.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.b845edf2.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "55e078ca803b87bd426b",
-    "url": "/static/js/main.25234bd5.chunk.js"
+    "revision": "d57f110904dad92d7cb9",
+    "url": "/static/js/main.8a319d20.chunk.js"
   },
   {
     "revision": "c307e69827cf23a9bfac",
@@ -60,19 +60,19 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/illustration-section-02.63d0555d.svg"
   },
   {
-    "revision": "2d76dccb7aac3b504b119c85fefb07f2",
-    "url": "/static/media/keyword-figma.2d76dccb.png"
+    "revision": "7201926c1287c17e40c11e3faa2c7f66",
+    "url": "/static/media/keyword-figma.7201926c.png"
   },
   {
     "revision": "81367c3dd82e9e4f52ee1e210dba65b9",
     "url": "/static/media/logo.81367c3d.png"
   },
   {
-    "revision": "f616931cdd5e71841de788f3df3e96d5",
-    "url": "/static/media/slides.f616931c.png"
+    "revision": "2f10c8d69436be39fafdcbfacf7d78bd",
+    "url": "/static/media/slides.2f10c8d6.png"
   },
   {
-    "revision": "35926c95ef5fab9ba10879d1c32f7dd3",
-    "url": "/static/media/toggle.35926c95.png"
+    "revision": "937e4ad129d5c1d753460067a7e33a70",
+    "url": "/static/media/toggle.937e4ad1.png"
   }
 ]);
